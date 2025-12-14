@@ -20,17 +20,3 @@
 [Unity.com]: https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black
 [Unity-url]: https://unity.com/
 
-## Documentation
-
-### Game Preview
-<img src="Preview/start.png" width="400" height="200"> <img src="Preview/level1.png" width="400" height="200"> <img src="Preview/level2.png" width="400" height="200"> <img src="Preview/lose.png" width="400" height="200"> <img src="Preview/win.png" width="400" height="200">
-
-### Demo
-<img src="Preview/demo.gif" width="400" height="200">
-
-## Installation
-
-- Add [Unity](https://store.unity.com/front-page?check_logged_in=1#plans-individual) to your machine
-
-- Add this project folder on Unity and run
-
